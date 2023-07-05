@@ -19,9 +19,11 @@ const Home = () => {
             integrated assignments, you will have all the resources you need to
             succeed.
           </p>
+          <a href="https://forms.gle/bYPoVRW6JondXuFh9">
           <button className="secondary-button">
             Get Started Now <FiArrowRight />{" "}
           </button>
+          </a>
         </div>
         <div className="home-image-section">
           <img src={BannerImage} alt="" />

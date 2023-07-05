@@ -24,7 +24,7 @@ const About = () => {
           We aim to educate individuals in the ever growing skill of programming.
         </p>
         <div className="about-buttons-container">
-          <button className="secondary-button">Learn More</button>
+          <a href="https://forms.gle/bYPoVRW6JondXuFh9"><button className="secondary-button">Learn More</button></a>
           <button className="watch-video-button">
             <BsFillPlayCircleFill /> Watch Video
           </button>

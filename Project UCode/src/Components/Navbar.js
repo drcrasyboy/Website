@@ -29,7 +29,7 @@ const Navbar = () => {
       icon: <InfoIcon />,
     },
     {
-      text: "Testimonials",
+      text: "Interns",
       icon: <CommentRoundedIcon />,
     },
     {
@@ -49,12 +49,12 @@ const Navbar = () => {
       <div className="navbar-links-container">
         <a href="./Home.js">Home</a>
         <a href="">About</a>
-        <a href="">Testimonials</a>
+        <a href="https://forms.gle/SSmC6bc24YJJWNtP6">Interns</a>
         <a href="./Contact.js">Contact</a>
         {/* <a href="">
           <BsCart2 className="navbar-cart-icon" />
         </a> */}
-        <button className="primary-button">Get Started Now</button>
+        <a href="https://forms.gle/bYPoVRW6JondXuFh9"><button className="primary-button">Get Started Now</button></a>
       </div>
       <div className="navbar-menu-container">
         <HiOutlineBars3 onClick={() => setOpenMenu(true)} />

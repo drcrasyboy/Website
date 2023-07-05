@@ -7,7 +7,7 @@ const Contact = () => {
       <h1 className="primary-heading">Let Us Help You</h1>
       <div className="contact-form-container">
         <input type="text" placeholder="yourmail@gmail.com" />
-        <a className="secondary-button" href="mailto:info@projectucode.org">Submit</a>
+        <a className="secondary-button" href="mailto:support@projectucode.org">Submit</a>
       </div>
     </div>
   );
