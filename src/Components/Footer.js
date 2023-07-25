@@ -19,8 +19,11 @@ const Footer = () => {
           <a href="https://www.linkedin.com/company/project-ucode/about/">
             <SiLinkedin />
           </a>
-          
-          <BsYoutube />
+
+          <a href="https://www.youtube.com/@projectucode">
+            <BsYoutube />
+          </a>
+    
           <FaFacebookF />
         </div>
       </div>
